@@ -1,1 +1,1 @@
-Fix IS_PYTHON_3_12 bug (#9258)
+Conda cv2 ImportError libEGL.so.1 fix (#9255)
