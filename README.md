@@ -1,1 +1,1 @@
-Fix bbox2segment converter (#7814)
+ultralytics 8.0.228 add training time argument (#7054)
