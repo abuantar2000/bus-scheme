@@ -1,1 +1,1 @@
-Add KaTeX support + updates to YOLOv9 model page (#8531)
+Resize angle, count, and stage on keypoint number change (#7598)
