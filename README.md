@@ -1,1 +1,1 @@
-Fix OpenVINO missing batch-size bug (#9264)
+Move Explorer tests to scheduled CI (#8305)
