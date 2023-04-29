@@ -1,1 +1,1 @@
-Explorer API video https://youtu.be/3VryynorQeo  (#7838)
+Add KaTeX support + updates to YOLOv9 model page (#8531)
