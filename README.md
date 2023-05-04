@@ -1,1 +1,1 @@
-Use pathlib in DOTA ops (#7552)
+Retry once for Docker CI failures (#8164)
