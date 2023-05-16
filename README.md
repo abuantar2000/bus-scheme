@@ -1,1 +1,1 @@
-ultralytics 8.0.229 add model.embed() method (#7098)
+Both Link Opening Options - Have both the Open in Background option and the Open in New Tab option available alongside each other
