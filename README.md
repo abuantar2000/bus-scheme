@@ -1,1 +1,1 @@
-Add bgr hyperparameter (#9139)
+Fix RTDETR generate anchor grid out of boundary (#7247)
