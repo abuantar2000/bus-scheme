@@ -1,1 +1,1 @@
-Fix RTDETR generate anchor grid out of boundary (#7247)
+ultralytics 8.1.18 add cmake for building onnxsim on aarch64 (#8395)
