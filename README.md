@@ -1,1 +1,1 @@
-ultralytics 8.1.18 add cmake for building onnxsim on aarch64 (#8395)
+RTDETRDetectionModel TorchScript, ONNX Predict and Val support (#8818)
