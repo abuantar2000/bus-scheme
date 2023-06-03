@@ -1,1 +1,1 @@
-Fix heatmaps width-height order bug (#7184)
+Do RTDETR file suffix check using pathlib instead of string manipulations (#8525)
