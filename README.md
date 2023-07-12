@@ -1,1 +1,1 @@
-Add TorchScript Docs Integrations Page (#8501)
+Rename model_id to model.id (#8447)
