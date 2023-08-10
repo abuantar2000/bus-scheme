@@ -1,1 +1,1 @@
-ultralytics 8.1.16 OBB ConfusionMatrix support (#8299)
+Add quantization support to TensorFlow.js converter (#7008)
