@@ -1,1 +1,1 @@
-Add quantization support to TensorFlow.js converter (#7008)
+New HUB Cloud Training docs page (#8174)
