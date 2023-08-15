@@ -1,1 +1,1 @@
-Add docs links to all dataset YAMLs (#7360)
+Add Neural Magic Docs integrations page (#7234)
