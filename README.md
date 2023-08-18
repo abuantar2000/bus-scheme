@@ -1,1 +1,1 @@
-Add missing Explorer docs reference pages (#7455)
+Improve Coral Edge TPU guide (#8160)
