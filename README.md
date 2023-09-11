@@ -1,1 +1,1 @@
-Add Ultralytics HUB Cloud Training banner to Docs (#8656)
+Embed videos in Docs pages using Parent pages for relevant segments (#6877)
