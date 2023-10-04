@@ -1,1 +1,1 @@
-Add type hinting to explorer.py (#7388)
+Add C++ Classify inference example (#6868)
