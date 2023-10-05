@@ -1,1 +1,1 @@
-Fix docs H1 tags (#7182)
+Fix TypeError in check_cfg() (#9245)
