@@ -1,1 +1,1 @@
-Fix OpenVINO links (#7930)
+Add yolo_bbox2segment docs reference (#7751)
