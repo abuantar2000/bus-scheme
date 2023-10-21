@@ -1,1 +1,1 @@
-Add OBB save_txt feature (#7450)
+Pass callbacks to validator (#7320)
