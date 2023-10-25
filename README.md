@@ -1,1 +1,1 @@
-Bounding Box to OBB conversion (#7572)
+ultralytics 8.1.11 expand OpenVINO INT8 ops for improved mAP (#7516)
