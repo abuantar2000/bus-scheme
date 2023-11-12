@@ -1,1 +1,1 @@
-Add new @Retry() decorator (#7854)
+Fix PNNX ubuntu -> linux bug (#7050)
