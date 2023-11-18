@@ -1,1 +1,1 @@
-Improve Docs arguments tables (#8415)
+YAML reformat (#7669)
