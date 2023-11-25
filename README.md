@@ -1,1 +1,1 @@
-Fix ONNX GPU inference bug (#6840)
+ultralytics 8.0.233 improve Classify train augmentations (#4546)
