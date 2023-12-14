@@ -1,1 +1,1 @@
-Add OpenVINO Latency vs Throughput modes Docs page (#9001)
+Fix names bug when exporting YOLOv8-World to ONNX (#8941)
