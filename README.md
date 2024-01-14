@@ -1,1 +1,1 @@
-fix resume training
+Improve Coral Edge TPU guide (#8160)
