@@ -1,1 +1,1 @@
-Add object blurring & object cropping modules in Ultralytics docs (#7434)
+ultralytics 8.0.236 dataset semantic & SQL search API (#7136)
