@@ -1,1 +1,1 @@
-Fix device counting method to account for double-digit device IDs (#8502)
+Updating a typo on paddlepaddle.md (#9108)
