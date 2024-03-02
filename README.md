@@ -1,1 +1,1 @@
-Updating a typo on paddlepaddle.md (#9108)
+OBB: Fix when training on zip data (#8680)
