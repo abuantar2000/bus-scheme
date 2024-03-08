@@ -1,1 +1,1 @@
-Faster batch same_shapes (#8851)
+Clean up unused imgsz (#7771)
