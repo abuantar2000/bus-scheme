@@ -1,1 +1,1 @@
-update requirements.txt
+Update Twitter icon in Docs (#7711)
