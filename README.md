@@ -1,1 +1,1 @@
-OBB: update metrics (#7593)
+Optimize function calls to method calls (#8507)
