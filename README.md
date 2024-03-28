@@ -1,1 +1,1 @@
-Capitalize OBB acronym (#7383)
+Object Counter improvements (#8648)
