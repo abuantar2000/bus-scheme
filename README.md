@@ -1,1 +1,1 @@
-Add YouTube iframe loading=lazy (#8001)
+Optimize function calls to method calls (#8507)
