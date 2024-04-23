@@ -1,1 +1,1 @@
-Add horizontal Mosaic3 augmentation (#6898)
+ultralytics 8.1.29 improved disk space checking on correct path (#8977)
