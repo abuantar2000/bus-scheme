@@ -1,1 +1,1 @@
-Update IoU capitalization (#8604)
+Update format.yml to pull_request_target (#7460)
