@@ -1,1 +1,1 @@
-ultralytics 8.1.19 PNNX aarch64 linux fix (#8480)
+Elaborate Train and Predict mode docs arguments (#8137)
