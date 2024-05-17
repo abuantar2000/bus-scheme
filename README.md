@@ -1,1 +1,1 @@
-ultralytics 8.0.234 VOC exist_ok=True unzip fix (#7295)
+Bump nick-invision/retry from 2 to 3 in /.github/workflows (#8023)
