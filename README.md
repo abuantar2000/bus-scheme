@@ -1,1 +1,1 @@
-Improve Docs Modes tables (#8266)
+Fix PIL show() and save() (#8202)
