@@ -1,1 +1,1 @@
-Add OpenVINO Latency vs Throughput modes Docs page (#9001)
+Allow Annotator PIL.Image inputs (#8397)
