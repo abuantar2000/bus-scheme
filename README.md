@@ -1,1 +1,1 @@
-Allow Annotator PIL.Image inputs (#8397)
+Fix PIL show() and save() (#8202)
