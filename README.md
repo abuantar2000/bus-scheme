@@ -1,1 +1,1 @@
-Add simple-utilities.md Docs page (#8269)
+Fix names bug when exporting YOLOv8-World to ONNX (#8941)
