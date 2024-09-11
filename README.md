@@ -1,1 +1,1 @@
-Add HUB-SDK docs (#7775)
+Update H1 in Explorer API docs (#7813)
