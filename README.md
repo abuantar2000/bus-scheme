@@ -1,1 +1,1 @@
-Update H1 in Explorer API docs (#7813)
+ultralytics 8.0.232 OpenCV 4.9.0 readonly np.array fix (#7256)
