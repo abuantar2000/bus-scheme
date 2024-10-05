@@ -1,1 +1,1 @@
-fix export tensorrt with dynamic size
+Faster batch same_shapes (#8851)
